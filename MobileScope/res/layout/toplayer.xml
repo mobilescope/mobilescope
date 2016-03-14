@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/playerUSERNAME"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="6dp"
+        android:layout_y="6dp"
+        android:text="@string/USERNAME"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/playerSEARCHCOUNT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="282dp"
+        android:layout_y="6dp"
+        android:gravity="right"
+        android:text="@string/SEARCHCOUNT"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/playerNETWORK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="134dp"
+        android:layout_y="7dp"
+        android:text="@string/NETWORK"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="10sp" />
+
+</AbsoluteLayout>

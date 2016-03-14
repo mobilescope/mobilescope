@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobilescope"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:maxSdkVersion="22"
+        android:minSdkVersion="11"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <application
+        android:name="com.mobilescope.processdata.ProcessPlayerStatus"
+       
+        android:icon="@drawable/iconp"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.mobilescope.SplashScreen"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+"        
+        </activity>
+        <activity android:name="com.mobilescope.MobileScopeMain" >
+            <intent-filter>
+                <action android:name="com.mobilescope.MobileScopeMain" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mobilescope.MainPageActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+
+                <!--
+                <action android:name="com.mobilescope.MainPageActivity"
+                    android:label="@string/app_name" />
+                -->
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!--
+        <activity
+            android:name=".SSMobileQuickSearchActivity"
+            android:label="@string/app_name" />
+        -->
+        <activity
+            android:name="com.mobilescope.PlayerSearchActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.ForumActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.SSMobilePlayerStatus"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.tour.detail.TourDetails"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.search.RecentTournamentHistory"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.search.PlayerHistory"
+            android:label="@string/app_name" >
+
+            <!--
+                <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.mobilescope.leader.LeaderCategoryActivity"
+            android:label="@string/app_name" >
+
+            <!--
+             <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.mobilescope.leader.LeaderboardRankActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.leader.LeaderboardTabActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.search.PlayerGraph"
+            android:label="@string/app_name" />
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity
+            android:name="com.mobilescope.TournamentSearchActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.mobilescope.SelectNetworkActivity" />
+        <activity android:name="com.mobilescope.menu.MobileScopeMenu" />
+        <activity
+            android:name="com.mobilescope.UserRegistration"
+            android:label="@string/title_activity_user_registration" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.ActivityGroup" />
+        </activity>
+        <activity
+            android:name="com.mobilescope.tournament.TourStaticSearchActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.preference.UserPreferenceActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.mobilescope.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="android.preference.PreferenceActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.preference.PreferenceActivity" />
+        </activity>
+    </application>
+
+</manifest>

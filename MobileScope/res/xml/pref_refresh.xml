@@ -1,0 +1,40 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <ListPreference
+            android:entries="@array/pref_refresh"
+            android:entryValues="@array/pref_refresh"
+            android:key="PRE_REFRESH"
+            android:summary="@string/pref_refresh_title_summary" />
+   
+    <!--  
+       <PreferenceCategory android:title="@string/pref_refresh_title" >
+     </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_curr_title" >
+        <ListPreference
+            android:entries="@array/pref_curr_key"
+            android:entryValues="@array/pref_curr_value"
+            android:key="PRE_CURR"
+            android:summary="select default currency used to search and display" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_feedback_title" >
+        <ListPreference
+            android:entries="@array/pref_feedback"
+            android:entryValues="@array/pref_feedback"
+            android:key="PRE_FEEDBACK"
+            android:summary="@string/pref_feedback_title_window"
+            android:title="@string/pref_feedback_window" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:summary="@string/pref_ver"
+        android:title="Version" >
+        <Preference android:title="@string/pref_ver" />
+        <Preference
+            android:defaultValue="@string/sign_id"
+            android:key="SIGNID"
+            android:summary="@string/sign_id"
+            android:title="@string/sign_id" />
+        <EditTextPreference android:dialogMessage="@string/sign_id" android:shouldDisableView="false" android:selectable="false"/>
+    </PreferenceCategory>
+
+ -->
+</PreferenceScreen>

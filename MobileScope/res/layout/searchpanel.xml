@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <AutoCompleteTextView
+            android:id="@+id/quickSearch"
+            android:layout_width="203dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="0dp"
+            android:layout_weight="0.17"
+            android:hint="@string/SEARCHPLAYER" />
+
+        <Button
+            android:id="@+id/searchgo"
+            style="@style/ButtonMobileScope"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="0dp"
+            android:layout_weight="0.01"
+            android:background="@drawable/ic_example"
+            android:paddingLeft="10dp" />
+
+    </LinearLayout>
+
+  
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="25dp" >
+            
+        <TextView
+            android:id="@+id/playersearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Player search history"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/playersearchhistory1"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_weight="0.36"
+            android:background="#000000"
+            android:stretchColumns="2" >
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:background="#ffffff"
+                android:scrollbarAlwaysDrawHorizontalTrack="true"
+                android:scrollbarAlwaysDrawVerticalTrack="true" >
+
+                <TextView
+                    android:id="@+id/playersearchname"
+                    android:layout_width="0dp"
+                    android:layout_weight=".50"
+                    android:background="@drawable/textviewblackborder"
+                    android:gravity="center"
+                    android:padding="3dp"
+                    android:text="Player" 
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight=".50"
+                    android:background="@drawable/textviewblackborder"
+                    android:gravity="center"
+                    android:padding="3dp"
+                    android:text="Network"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
+            </TableRow>
+        </TableLayout>
+        
+	</LinearLayout>
+	
+    
+        
+        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   			 android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:scrollbars="none">
+     <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:orientation="vertical">
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/playersearchhistory"
+            android:layout_width="match_parent"
+            android:layout_height="236dp"
+            android:background="#000000"
+            android:stretchColumns="2" >
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:background="#ffffff"
+                android:scrollbarAlwaysDrawHorizontalTrack="true"
+                android:scrollbarAlwaysDrawVerticalTrack="true" >
+            </TableRow>
+        </TableLayout>
+        </LinearLayout>
+        </ScrollView>
+
+    
+    
+</LinearLayout>
