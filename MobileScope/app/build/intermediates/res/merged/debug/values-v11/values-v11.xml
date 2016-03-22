@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AutoCompleteTextViewMobileScope" parent="android:Widget.Holo.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/list_selector_holo_dark</item>
+	    <item name="android:background">@drawable/edit_text_holo_dark</item>
+  </style>
+    <style name="ButtonMobileScope" parent="android:Widget.Holo.Button">
+	  <item name="android:background">@drawable/btn_default_holo_dark</item>
+  </style>
+    <style name="ImageButtonMobileScope" parent="android:Widget.Holo.ImageButton">
+	  <item name="android:background">@drawable/btn_default_holo_dark</item>
+  </style>
+    <style name="MobileScope" parent="android:Theme.Holo">
+
+    <item name="android:editTextBackground">@drawable/edit_text_holo_dark</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewMobileScope</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_holo_dark</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/btn_radio_holo_dark</item>
+
+    <item name="android:buttonStyle">@style/ButtonMobileScope</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonMobileScope</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerMobileScope</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarMobileScope</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleMobileScope</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_holo_dark</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_holo_dark</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_holo</item>
+
+  </style>
+    <style name="ProgressBarMobileScope" parent="android:Widget.Holo.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/progress_horizontal_holo_dark</item>
+      <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal_holo_dark</item>
+  </style>
+    <style name="SpinnerMobileScope" parent="android:Widget.Holo.Spinner">
+      <item name="android:background">@drawable/spinner_background_holo_dark</item>
+      <item name="android:dropDownSelector">@drawable/list_selector_holo_dark</item>
+  </style>
+    <style name="ToggleMobileScope" parent="android:Widget.Holo.Button.Toggle">
+      <item name="android:background">@drawable/btn_toggle_holo_dark</item>
+  </style>
+</resources>

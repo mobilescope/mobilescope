@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/drawable-xhdpi-v5/seek_thumb_normal.png",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/drawable-xhdpi-v5/seek_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/drawable-xhdpi-v5/ic_tab_example_unselected.png",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/drawable-xhdpi-v5/ic_tab_example_unselected.png"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/drawable-xhdpi-v5/ic_tab_example_selected.png",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/drawable-xhdpi-v5/ic_tab_example_selected.png"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/drawable-xhdpi-v5/seek_thumb_pressed.png",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/drawable-xhdpi-v5/seek_thumb_pressed.png"
+    }
+]

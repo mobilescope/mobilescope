@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="MobileScope" parent="android:Theme">
+
+    <item name="android:editTextStyle">@style/EditTextMobileScope</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewMobileScope</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxMobileScope</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonMobileScope</item>
+
+    <item name="android:buttonStyle">@style/ButtonMobileScope</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonMobileScope</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerMobileScope</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerMobileScope.DropDown</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemMobileScope</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarMobileScope</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleMobileScope</item>
+
+    <item name="android:listViewStyle">@style/ListViewMobileScope</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewMobileScope.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemMobileScope</item>
+
+  </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="textSize">32sp</dimen>
+    <color name="ms_unselect">#449DEF</color>
+    <color name="ms_select">#16C757</color>
+</resources>

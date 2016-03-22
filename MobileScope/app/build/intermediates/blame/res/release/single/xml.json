@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/activity_setting_preference.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/activity_setting_preference.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/mobile_preference.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/mobile_preference.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_feedback.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_feedback.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_notification.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_refresh.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_refresh.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_headers.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_general.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_curr.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_curr.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/xml/pref_data_sync.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/xml/pref_data_sync.xml"
+    }
+]

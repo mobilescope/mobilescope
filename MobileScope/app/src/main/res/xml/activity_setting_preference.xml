@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Mobile Scope Settings" >
+
+    <PreferenceCategory android:title="@string/pref_refresh_title" >
+     <ListPreference
+            android:entries="@array/pref_refresh"
+            android:entryValues="@array/pref_refresh"
+            android:key="PRE_REFRESH" android:summary="@string/pref_refresh_title_summary"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_curr_title" >
+         <ListPreference
+            android:entries="@array/pref_curr_key"
+            android:entryValues="@array/pref_curr_value"
+            android:key="PRE_CURR" android:summary="select default currency used to search and display"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_feedback_title" >
+        <ListPreference
+            android:entries="@array/pref_feedback"
+            android:entryValues="@array/pref_feedback"
+            android:key="PRE_FEEDBACK" android:summary="@string/pref_feedback_title_window" android:title="@string/pref_feedback_window"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Version" android:summary="@string/pref_ver">
+        <Preference android:title="@string/pref_ver"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

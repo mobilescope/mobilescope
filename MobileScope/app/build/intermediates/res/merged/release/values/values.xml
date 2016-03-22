@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_curr_key">
+        <item name="1">$</item>
+        <item name="2">€</item>
+        <item name="3">£</item>
+    </string-array>
+    <string-array name="pref_curr_value">
+        <item name="1">0</item>
+        <item name="2">1</item>
+        <item name="3">2</item>
+    </string-array>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_feedback">
+        <item name="1">Send log file</item>
+        <item name="2">Send feedback</item>
+    </string-array>
+    <string-array name="pref_refresh">
+        <item name="1">Preserve data</item>
+        <item name="2">Clear player search data</item>
+        <item name="3">Clear tournament search data</item>
+        <item name="4">Clear userid and password</item>
+         <item name="5">Clear all</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <color name="ms_select">#16C757</color>
+    <color name="ms_unselect">#449DEF</color>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <string name="GO">></string>
+    <string name="NETWORK">network</string>
+    <string name="QUICK_SEARCH_LABEL">Quick Search</string>
+    <string name="SEARCHCOUNT">search</string>
+    <string name="SEARCHPLAYER">Search player</string>
+    <string name="SEARCHRESULTROW1">Count</string>
+    <string name="SEARCHRESULTROW2">Av Profit</string>
+    <string name="SEARCHRESULTROW3">Av Stake</string>
+    <string name="SEARCHRESULTROW4">Av ROI</string>
+    <string name="SEARCHRESULTROW5">Total Profit</string>
+    <string name="SEARCHRESULTROW6">Ability</string>
+    <string name="SEARCHRESULTVALUE1">Count</string>
+    <string name="SEARCHRESULTVALUE2">Av Profit</string>
+    <string name="SEARCHRESULTVALUE3">Av Stake</string>
+    <string name="SEARCHRESULTVALUE4">Av ROI</string>
+    <string name="SEARCHRESULTVALUE5">Total Profit</string>
+    <string name="SEARCHRESULTVALUE6">Ability</string>
+    <string name="USERNAME">player name</string>
+    <string name="add">Add</string>
+    <string name="add_values">Add values to the chart</string>
+    <string name="adv_string1"> Ad text will be displayed</string>
+    <string name="app_name">MobileScope - Lite</string>
+    <string name="crash_toast_text"/>
+    <string name="crash_toast_text1">Mobilescope application crashed unexpectedly, we will fix this issue as soon as possible.</string>
+    <string name="get_list_users">Getting user list</string>
+    <string name="hello">Hello World, Lop!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_series">New series</string>
+    <string name="new_user_id">Enter login id</string>
+    <string name="new_user_link">New user registration</string>
+    <string name="new_user_passwd">Enter password</string>
+    <string name="new_user_passwdconf">Confirm Password</string>
+    <string name="new_user_reg">Register</string>
+    <string name="pref_curr_title">Setup Currency</string>
+    <string name="pref_curr_title_window">Select Currency</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact based on your message history</string>
+    <string name="pref_feedback_title">Scold or Praise me</string>
+    <string name="pref_feedback_title_window">Help us to improve with your valuable comment. Mobilescope will make every effort to satisfy your expentations</string>
+    <string name="pref_feedback_window"/>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_header_general">Cleanup Stored Data</string>
+    <string name="pref_header_notifications">Currency</string>
+    <string name="pref_refresh_title">Clear cached data</string>
+    <string name="pref_refresh_title_summary">Clear stored cache data from the mobile</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_ver">1.0-Beta</string>
+    <string name="sign_id">sharkscope</string>
+    <string name="title_activity_select_network">SelectNetworkActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_user_registration">MobileScope</string>
+    <string name="userlist">a</string>
+    <string name="userreg_country">Country code:</string>
+    <string name="userreg_emailpattern">User id should be in email format</string>
+    <string name="userreg_nonsupport">password contains space or non supported characters</string>
+    <string name="userreg_password_notmatch">password did not match</string>
+    <string name="userreg_short">password is too short</string>
+    <string name="userreg_subscribe">Subscribe to sharkscope.com</string>
+    <string name="userreg_success">created new user with sharkscope</string>
+    <string name="userreg_userid_exit">user id not available</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <style name="AutoCompleteTextViewMobileScope" parent="android:Widget.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/list_selector_holo_dark</item>
+	  <item name="android:background">@drawable/edit_text_holo_dark</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="ButtonMobileScope" parent="android:Widget.Button">
+	  <item name="android:background">@drawable/btn_default_holo_dark</item>
+	  <item name="android:minHeight">48dip</item>
+	  <item name="android:minWidth">64dip</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="ButtonText">
+    
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">0dp</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+</style>
+    <style name="ButtonTextPressed"> 
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">0dp</item>
+    <item name="android:textColor">#000000</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">10dp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#ffffff</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+</style>
+    <style name="CheckBoxMobileScope" parent="android:Widget.CompoundButton.CheckBox">
+      <item name="android:button">@drawable/btn_check_holo_dark</item>
+  </style>
+    <style name="EditTextMobileScope" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/edit_text_holo_dark</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="ImageButtonMobileScope" parent="android:Widget.ImageButton">
+	  <item name="android:background">@drawable/btn_default_holo_dark</item>
+  </style>
+    <style name="ListViewMobileScope" parent="android:Widget.ListView">
+      <item name="android:listSelector">@drawable/list_selector_holo_dark</item>
+  </style>
+    <style name="ListViewMobileScope.White" parent="android:Widget.ListView.White">
+      <item name="android:listSelector">@drawable/list_selector_holo_dark</item>
+  </style>
+    <style name="MobileScope" parent="android:Theme">
+
+    <item name="android:editTextStyle">@style/EditTextMobileScope</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewMobileScope</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxMobileScope</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonMobileScope</item>
+
+    <item name="android:buttonStyle">@style/ButtonMobileScope</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonMobileScope</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerMobileScope</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerMobileScope.DropDown</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemMobileScope</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarMobileScope</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleMobileScope</item>
+
+    <item name="android:listViewStyle">@style/ListViewMobileScope</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewMobileScope.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemMobileScope</item>
+
+  </style>
+    <style name="NormalButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">50dp</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">12dp</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+</style>
+    <style name="ProgressBarMobileScope" parent="android:Widget.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/progress_horizontal_holo_dark</item>
+      <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal_holo_dark</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+    <style name="RadioButtonMobileScope" parent="android:Widget.CompoundButton.RadioButton">
+      <item name="android:button">@drawable/btn_radio_holo_dark</item>
+  </style>
+    <style name="SpinnerDropDownItemMobileScope" parent="android:Widget.DropDownItem.Spinner">
+      <item name="android:checkMark">@drawable/btn_radio_holo_dark</item>
+  </style>
+    <style name="SpinnerItemMobileScope" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+      <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="SpinnerMobileScope" parent="android:Widget.Spinner">
+      <item name="android:background">@drawable/spinner_background_holo_dark</item>
+      <item name="android:dropDownSelector">@drawable/list_selector_holo_dark</item>
+  </style>
+    <style name="SpinnerMobileScope.DropDown">
+      <item name="android:spinnerMode">dropdown</item>
+  </style>
+    <style name="ToggleMobileScope" parent="android:Widget.Button.Toggle">
+      <item name="android:background">@drawable/btn_toggle_holo_dark</item>
+      <item name="android:minHeight">48dip</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="tr_withborder"/>
+</resources>

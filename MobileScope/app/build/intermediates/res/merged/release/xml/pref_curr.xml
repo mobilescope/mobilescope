@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   <ListPreference
+            android:entries="@array/pref_curr_key"
+            android:entryValues="@array/pref_curr_value"
+            android:key="PRE_CURR"
+            android:summary="select default currency used to search and display" />
+
+</PreferenceScreen>

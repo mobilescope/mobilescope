@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/lineartop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1" >
+        
+        <include layout="@layout/toplayer"/>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/linearmiddle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:fadingEdge="vertical"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <include
+            android:layout_weight="1.18"
+            layout="@layout/middlelayer" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearbottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:fadingEdge="vertical" >
+        <include layout="@layout/bottomlayer"/>
+    </LinearLayout>
+
+</LinearLayout>

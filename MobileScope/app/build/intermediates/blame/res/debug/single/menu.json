@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/menu/mainmenu.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/menu/mainmenu.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/menu/activity_select_network.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/menu/activity_select_network.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/debug/menu/activity_user_registration.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/menu/activity_user_registration.xml"
+    }
+]

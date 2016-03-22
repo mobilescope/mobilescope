@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"     >
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingLeft="4dip"
+    android:paddingRight="4dip"
+    style="?android:attr/actionButtonStyle" />
+ 
+    <item android:id="@+id/menu_settings1"
+        android:title="Settings"
+        android:titleCondensed="Settings"
+        
+        />
+      <item android:id="@+id/menu_home"
+        android:title="Home"
+        android:titleCondensed="Home"
+        android:showAsAction="ifRoom|withText"
+        />
+     
+    
+</menu>

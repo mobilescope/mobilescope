@@ -1,0 +1,12 @@
+{
+"Response":{
+"@success":"true",
+"@timestamp":"1321599034",
+"@metadataHash":"3925ec5b37c4b0ed02a43287f7d2f3ed",
+"AutoCompleteResponse":{
+        "PlayerSuggestion":[
+        {"@network":"PokerStars","@name":"Alkazar99","@icons":"images/icons/video.gif;images/icons/blog.gif"},
+        {"@network":"FullTilt","@name":"Alkazar99"},
+        {"@network":"Ongame.it","@name":"Alkazar99"},
+        {"@network":"Merge","@name":"Alkazar99"},
+        {"@network":"GiocoDigitale (Closed)","@name":"Alkazar99"},{"@network":"MicroGame","@name":"Alkazar99"}]}}}

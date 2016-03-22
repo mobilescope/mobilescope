@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<TableLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="236dp"
+    android:id="@+id/searchresulttable"
+    android:background="#000000"
+    android:fadingEdge="vertical"    
+    >
+    
+     <TableRow> </TableRow>
+        
+
+    
+   
+    
+
+    <!--
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTROW1"
+            android:layout_width="fill_parent"
+            android:gravity="left"
+             android:background="#ff0000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTVALUE1"
+            android:layout_width="fill_parent"
+            android:gravity="right"
+             android:background="#000000" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTROW2"
+            android:layout_width="fill_parent"
+            android:gravity="left"
+             android:background="#ff0000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTVALUE2"
+            android:layout_width="fill_parent"
+            android:gravity="right"
+             android:background="#000000" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTROW3"
+            android:layout_width="fill_parent"
+            android:gravity="left"
+             android:background="#ff0000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTVALUE3"
+            android:layout_width="fill_parent"
+            android:gravity="right"
+             android:background="#000000" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTROW4"
+            android:layout_width="fill_parent"
+            android:gravity="left"
+             android:background="#ff0000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTVALUE4"
+            android:layout_width="fill_parent"
+            android:gravity="right"
+             android:background="#000000" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTROW5"
+            android:layout_width="fill_parent"
+            android:gravity="left"
+             android:background="#ff0000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTVALUE5"
+            android:layout_width="fill_parent"
+            android:gravity="right"
+             android:background="#000000" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTROW6"
+            android:layout_width="fill_parent"
+            android:gravity="left"
+             android:background="#ff0000"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:padding="3dip"
+            android:text="@string/SEARCHRESULTVALUE6"
+            android:layout_width="fill_parent"
+            android:gravity="right"
+             android:background="#000000" />
+    </TableRow>
+    -->
+</TableLayout>
+</ScrollView>

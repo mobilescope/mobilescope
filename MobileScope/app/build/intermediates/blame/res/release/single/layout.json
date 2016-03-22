@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/toursearchhistorytable.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/toursearchhistorytable.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/tournamentidsearch.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/tournamentidsearch.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/textviewlayout.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/textviewlayout.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/playergraph.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/playergraph.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/searchresult.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/searchresult.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/mainactivity.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/mainactivity.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/activity_tourstatics_search.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/activity_tourstatics_search.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/groupchild_row.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/groupchild_row.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/splashscreen.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/list_item.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/select_network_group.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/select_network_group.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/forumpage.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/forumpage.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/transcationsearch.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/transcationsearch.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/tabletourdetail.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/tabletourdetail.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/playerdetail.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/playerdetail.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/resttour.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/resttour.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/playerstatics.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/playerstatics.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/rankleader.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/rankleader.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/usertabpanel.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/usertabpanel.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/topleader.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/topleader.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/activity_scopemain.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/activity_scopemain.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/searchpanel.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/searchpanel.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/tourdetail.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/tourdetail.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/group_row.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/group_row.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/activity_select_network.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/activity_select_network.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/tab_bg.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/tab_bg.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/leaderrankpage.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/leaderrankpage.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/tablerow.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/tablerow.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/playersearchlayout.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/playersearchlayout.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/prefence_button_list.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/prefence_button_list.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/actrivity_menu.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/actrivity_menu.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/activity_user_registration.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/activity_user_registration.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/toplayer.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/toplayer.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/middlelayer.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/middlelayer.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/select_network_child.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/select_network_child.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/child_row.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/child_row.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/bottomlayer.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/bottomlayer.xml"
+    },
+    {
+        "merged": "/Users/212316563/StudioProjects/MobileScope/app/build/intermediates/res/merged/release/layout/rankdetail.xml",
+        "source": "/Users/212316563/StudioProjects/MobileScope/app/src/main/res/layout/rankdetail.xml"
+    }
+]

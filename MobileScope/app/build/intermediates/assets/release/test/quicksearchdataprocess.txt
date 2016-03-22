@@ -1,0 +1,1123 @@
+{
+"Response": {
+  "@success": "true",
+  "@timestamp": "1321427617",
+  "@metadataHash": "2132c611a292614cf1dd926b75c3cc04",
+  "UserInfo": {
+    "@loggedIn": "true",
+    "Username": "judefdo@gmail.com",
+    "Regions": {
+      "@name": "International",
+      "@code": "All"
+    },
+    "Currency": "USD",
+    "RemainingSearches": "699",
+    "ExpirationDate": "1351791809",
+    "Subscriptions": {
+      "@totalSearchesRemaining": "699",
+      "@freeSearchesRemaining": "0",
+      "Subscription": [
+        {
+          "@txnID": "INTERNAL6973",
+          "@class": "Plus",
+          "@accessLevel": "200",
+          "@primary": "true",
+          "@expirationDate": "1351791809"
+        },
+        {
+          "@txnID": "DEVICE:a66c3db7b2bd1848294b4909f80e1c301175ed51",
+          "@class": "PayAsYouGo",
+          "@accessLevel": "100"
+        }
+      ]
+    }
+        },
+  "PlayerResponse": {
+    "PlayerView": [
+    {
+      "Filter": null,
+      "Player": {
+        "@network": "MicroGame",
+        "@name": "Alkazar99",
+        "Statistics": {
+          "@displayCurrency": "USD",
+          "Statistic": [
+            {
+              "@id": "Count",
+              "$": "17"
+            },
+            {
+              "@id": "AvProfit",
+              "$": "-3.02"
+            },
+            {
+              "@id": "AvStake",
+              "$": "31.21"
+            },
+            {
+              "@id": "AvROI",
+              "$": "14.53"
+            },
+            {
+              "@id": "Profit",
+              "$": "-51.30"
+            },
+            {
+              "@id": "Stake",
+              "$": "530.58"
+            },
+            {
+              "@id": "Cashes",
+              "$": "548.01"
+            },
+            {
+              "@id": "FirstGameDate",
+              "$": "1243044185"
+            },
+            {
+              "@id": "LastGameDate",
+              "$": "1244984230"
+            },
+            {
+              "@id": "MostGamesInDay",
+              "$": "12"
+            },
+            {
+              "@id": "AvGamesPerDay",
+              "$": "4.25"
+            },
+            {
+              "@id": "PercentDaysPlayed",
+              "$": "0.44"
+            },
+            {
+              "@id": "PercentDaysPlayedThisMonth",
+              "$": "0"
+            },
+            {
+              "@id": "Rake",
+              "$": "68.72"
+            },
+            {
+              "@id": "TotalROI",
+              "$": "-8.56"
+            },
+            {
+              "@id": "ITM",
+              "$": "52.94"
+            },
+            {
+              "@id": "AvEntrants",
+              "$": "5.53"
+            },
+            {
+              "@id": "TurboRatio",
+              "$": "52.94"
+            },
+            {
+              "@id": "PercentFieldBeaten",
+              "$": "56.89"
+            },
+            {
+              "@id": "PTLBPoints",
+              "$": "0"
+            },
+            {
+              "@id": "Ability",
+              "$": "66"
+            },
+            {
+              "@id": "MaxWinningStreak",
+              "$": "2"
+            },
+            {
+              "@id": "MaxLosingStreak",
+              "$": "2"
+            },
+            {
+              "@id": "MaxCashingStreak",
+              "$": "2"
+            },
+            {
+              "@id": "WinningDays",
+              "$": "2"
+            },
+            {
+              "@id": "LosingDays",
+              "$": "2"
+            },
+            {
+              "@id": "BreakEvenDays",
+              "$": "0"
+            }
+          ],
+          "StatisticalDataSet": [
+            {
+              "@id": "ByGame",
+              "Data": [
+                {
+                  "@x": "1",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243044185"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "10.48"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "24.28"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "1.65"
+                    }
+                  ]
+                },
+                {
+                  "@x": "2",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243046061"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "14.90"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "35.60"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "2.89"
+                    }
+                  ]
+                },
+                {
+                  "@x": "3",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243048134"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-34.49"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "4.13"
+                    }
+                  ]
+                },
+                {
+                  "@x": "4",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243048668"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-20.69"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "2.89"
+                    }
+                  ]
+                },
+                {
+                  "@x": "5",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243048822"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "26.76"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "40.56"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "2.20"
+                    }
+                  ]
+                },
+                {
+                  "@x": "6",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243049959"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-20.69"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "2.89"
+                    }
+                  ]
+                },
+                {
+                  "@x": "7",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243050126"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "3.58"	
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "17.38"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "2.20"
+                    }
+                  ]
+                },
+                {
+                  "@x": "8",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243051829"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-34.49"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "4.13"
+                    }
+                  ]
+                },
+                {
+                  "@x": "9",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243053187"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-68.99"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "6.89"
+                    }
+                  ]
+                },
+                {
+                  "@x": "10",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243054995"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "4.69"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "11.59"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "1.10"
+                    }
+                  ]
+                },
+                {
+                  "@x": "11",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243055689"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-6.89"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "1.10"
+                    }
+                  ]
+                },
+                {
+                  "@x": "12",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1243056182"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-6.89"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "1.10"
+                    }
+                  ]
+                },
+                {
+                  "@x": "13",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1244820807"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "144.28"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "178.00"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "4.04"
+                    }
+                  ]
+                },
+                {
+                  "@x": "14",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1244855276"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "47.19"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "182.04"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "13.48"
+                    }
+                  ]
+                },
+                {
+                  "@x": "15",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1244856064"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-134.84"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "13.48"
+                    }
+                  ]
+                },
+                {
+                  "@x": "16",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1244890097"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "10.24"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "23.73"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "1.61"
+                    }
+                  ]
+                },
+                {
+                  "@x": "17",
+                  "Y": [
+                    {
+                      "@id": "FirstDate",
+                      "$": "1244984230"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "14.56"
+                    },
+                    {
+                      "@id": "Cashes",
+                      "$": "34.79"
+                    },
+                    {
+                      "@id": "Rake",
+                      "$": "2.83"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@id": "ByStake",
+              "Data": [
+                {
+                  "@x": "4.2EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "-9.11"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-44"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "3"
+                    }
+                  ]
+                },
+                {
+                  "@x": "8.4EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "30.36"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "110"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    }
+                  ]
+                },
+                {
+                  "@x": "8.8EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "20.74"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "76"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    }
+                  ]
+                },
+                {
+                  "@x": "12.9EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "-11.93"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-14.49"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "4"
+                    }
+                  ]
+                },
+                {
+                  "@x": "22EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "75.30"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "73.31"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "3"
+                    }
+                  ]
+                },
+                {
+                  "@x": "45EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "-68.99"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-100"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "1"
+                    }
+                  ]
+                },
+                {
+                  "@x": "90EUR",
+                  "Y": [
+                    {
+                      "@id": "Profit",
+                      "$": "-87.65"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-32.5"
+                    },
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@id": "Streaks",
+              "Data": [{
+                "@x": "2",
+                "Y": [
+                  {
+                    "@id": "WinStreakCount",
+                    "$": "2"
+                  },
+                  {
+                    "@id": "LoseStreakCount",
+                    "$": "3"
+                  },
+                  {
+                    "@id": "CashStreakCount",
+                    "$": "3"
+                  }
+                ]
+              }]
+            },
+            {
+              "@id": "ByGameType",
+              "Data": [{
+                "@x": "H\/NL",
+                "Y": [
+                  {
+                    "@id": "Count",
+                    "$": "17"
+                  },
+                  {
+                    "@id": "Profit",
+                    "$": "-51.30"
+                  },
+                  {
+                    "@id": "AvROI",
+                    "$": "-8.56"
+                  }
+                ]
+              }]
+            },
+            {
+              "@id": "ByEntrants",
+              "Data": [
+                {
+                  "@x": "2",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "7"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "41.09"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "46.22"
+                    }
+                  ]
+                },
+                {
+                  "@x": "5",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "8"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-215.98"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-47.37"
+                    }
+                  ]
+                },
+                {
+                  "@x": "20",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "123.59"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "227.15"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@id": "ByHourOfDay",
+              "Data": [
+                {
+                  "@x": "1",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-87.65"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-32.5"
+                    }
+                  ]
+                },
+                {
+                  "@x": "2",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "25.39"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "73.6"
+                    }
+                  ]
+                },
+                {
+                  "@x": "3",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "5"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-45.54"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-44"
+                    }
+                  ]
+                },
+                {
+                  "@x": "4",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "2"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-103.49"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-100"
+                    }
+                  ]
+                },
+                {
+                  "@x": "5",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "3"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-9.11"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-44"
+                    }
+                  ]
+                },
+                {
+                  "@x": "10",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "1"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "10.25"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "76"
+                    }
+                  ]
+                },
+                {
+                  "@x": "12",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "1"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "14.56"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "72"
+                    }
+                  ]
+                },
+                {
+                  "@x": "15",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "1"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "144.29"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "428"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@id": "ByDayOfWeek",
+              "Data": [
+                {
+                  "@x": "Su",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "1"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "14.56"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "72"
+                    }
+                  ]
+                },
+                {
+                  "@x": "Fr",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "1"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "144.29"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "428"
+                    }
+                  ]
+                },
+                {
+                  "@x": "Sa",
+                  "Y": [
+                    {
+                      "@id": "Count",
+                      "$": "15"
+                    },
+                    {
+                      "@id": "Profit",
+                      "$": "-210.15"
+                    },
+                    {
+                      "@id": "AvROI",
+                      "$": "-38.53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@id": "ByPositionAndEntrants",
+              "Data": [
+                {
+                  "@z": "1",
+                  "@x": "2",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "5"
+                  }]
+                },
+                {
+                  "@z": "2",
+                  "@x": "2",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "2"
+                  }]
+                },
+                {
+                  "@z": "1",
+                  "@x": "5",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "1"
+                  }]
+                },
+                {
+                  "@z": "2",
+                  "@x": "5",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "2"
+                  }]
+                },
+                {
+                  "@z": "4",
+                  "@x": "5",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "3"
+                  }]
+                },
+                {
+                  "@z": "5",
+                  "@x": "5",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "2"
+                  }]
+                },
+                {
+                  "@z": "2",
+                  "@x": "20",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "1"
+                  }]
+                },
+                {
+                  "@z": "11",
+                  "@x": "20",
+                  "Y": [{
+                    "@id": "Count",
+                    "$": "1"
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        "RecentTournaments": {"Tournament": [
+          {
+            "@prizePool": "25.8",
+            "@date": "1244984230",
+            "@totalEntrants": "2",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "12.9",
+            "@rake": "2.1",
+            "@network": "MicroGame",
+            "@id": "4911117",
+            "@game": "H",
+            "@flags": "HU",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@prize": "25.80",
+              "@position": "1",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@prizePool": "17.6",
+            "@date": "1244890097",
+            "@totalEntrants": "2",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "8.8",
+            "@rake": "1.2",
+            "@network": "MicroGame",
+            "@id": "4881074",
+            "@game": "H",
+            "@flags": "T,HU",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@prize": "17.60",
+              "@position": "1",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@date": "1244856064",
+            "@totalEntrants": "5",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "90.0",
+            "@rake": "10.0",
+            "@network": "MicroGame",
+            "@id": "4876100",
+            "@game": "H",
+            "@flags": "T",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@position": "5",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@prizePool": "135.0",
+            "@date": "1244855276",
+            "@totalEntrants": "5",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "90.0",
+            "@rake": "10.0",
+            "@network": "MicroGame",
+            "@id": "4875575",
+            "@game": "H",
+            "@flags": "T",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@prize": "135.00",
+              "@position": "2",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@prizePool": "132.0",
+            "@date": "1244820807",
+            "@totalEntrants": "20",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "22.0",
+            "@rake": "3.0",
+            "@network": "MicroGame",
+            "@id": "4858544",
+            "@game": "H",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@prize": "132.00",
+              "@position": "2",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@date": "1243056182",
+            "@totalEntrants": "2",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "4.2",
+            "@rake": "0.8",
+            "@network": "MicroGame",
+            "@id": "4274324",
+            "@game": "H",
+            "@flags": "T,HU",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@position": "2",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@date": "1243055689",
+            "@totalEntrants": "2",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "4.2",
+            "@rake": "0.8",
+            "@network": "MicroGame",
+            "@id": "4274303",
+            "@game": "H",
+            "@flags": "T,HU",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@position": "2",
+              "@playerName": "Alkazar99"
+            }
+          },
+          {
+            "@prizePool": "8.4",
+            "@date": "1243054995",
+            "@totalEntrants": "2",
+            "@structure": "NL",
+            "@state": "Completed",
+            "@stake": "4.2",
+            "@rake": "0.8",
+            "@network": "MicroGame",
+            "@id": "4274270",
+            "@game": "H",
+            "@flags": "T,HU",
+            "@currency": "EUR",
+            "TournamentEntry": {
+              "@prize": "8.40",
+              "@position": "1",
+              "@playerName": "Alkazar99"
+            }
+          }
+        ]}
+      }
+    }
+  ]}
+}}

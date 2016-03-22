@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Test"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <AbsoluteLayout
+        android:id="@+id/widget0"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ProgressBar
+            android:id="@+id/progressBar11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="116dp"
+            android:layout_y="406dp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/label_username"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_x="10dp"
+            android:layout_y="42dp"
+            android:text="Mobile Scope ID"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/username1"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_x="13dp"
+            android:layout_y="76dp"
+            android:ems="10"
+            android:scrollHorizontally="false"
+            android:singleLine="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/label_password"
+            android:layout_width="140dp"
+            android:layout_height="30dp"
+            android:layout_x="20dp"
+            android:layout_y="128dp"
+            android:text="Password"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/password1"
+            android:layout_width="223px"
+            android:layout_height="wrap_content"
+            android:layout_x="18dp"
+            android:layout_y="163dp"
+            android:ems="10"
+            android:password="true"
+            android:scrollHorizontally="false"
+            android:singleLine="true"
+            android:textSize="18sp" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/signIn1"
+            style="@style/ButtonText"
+            android:layout_width="175dp"
+            android:layout_height="wrap_content"
+            android:layout_x="18dp"
+            android:layout_y="216dp"
+            android:background="@drawable/bluebutton"
+            android:text="Sign In"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+
+        <Button
+            android:id="@+id/newusersign"
+            style="@style/ButtonText"
+            android:layout_width="175dp"
+            android:layout_height="wrap_content"
+            android:layout_x="21dp"
+            android:layout_y="280dp"
+            android:background="@drawable/bluebutton"
+            android:singleLine="true"
+            android:text="User Registration"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:typeface="sans" />
+
+    </AbsoluteLayout>
+
+</LinearLayout>

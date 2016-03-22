@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   <ListPreference
+            android:entries="@array/pref_feedback"
+            android:entryValues="@array/pref_feedback"
+            android:key="PRE_FEEDBACK"
+            android:summary="@string/pref_feedback_title_window"
+            android:title="@string/pref_feedback_window" />
+   
+    <!--
+         This preference simply launches an intent when selected. Use this UI sparingly, per
+         design guidelines.
+    -->
+    <Preference android:title="@string/pref_title_system_sync_settings" >
+        <intent android:action="android.settings.SYNC_SETTINGS" />
+    </Preference>
+    <Preference android:key="sign_id" android:title="@string/sign_id"/>
+
+</PreferenceScreen>

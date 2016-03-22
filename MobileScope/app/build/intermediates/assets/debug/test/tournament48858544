@@ -1,0 +1,339 @@
+
+{
+"Response": 
+{
+  "@success": "true",
+  "@timestamp": "1323847745",
+  "@metadataHash": "590471a9d535e40a44aae2e657d9250d",
+  "UserInfo": 
+  {
+    "@loggedIn": "true",
+    "Username": "judefdo@gmail.com",
+    "Regions": {
+      "@name": "International",
+      "@code": "All"
+  	  },
+    "Currency": "USD",
+    "RemainingSearches": "696",
+    "ExpirationDate": "1351791809",
+    "Subscriptions": {
+      "@totalSearchesRemaining": "696",
+      "@freeSearchesRemaining": "0",
+      "Subscription": [
+        {
+          "@txnID": "INTERNAL6973",
+          "@class": "Plus",
+          "@accessLevel": "200",
+          "@primary": "true",
+          "@expirationDate": "1351791809"
+        },
+        {
+          "@txnID": "DEVICE:a66c3db7b2bd1848294b4909f80e1c301175ed51",
+          "@class": "PayAsYouGo",
+          "@accessLevel": "100"
+        }
+      ]
+    }
+  },
+  "TournamentResponse": {
+  "CompletedTournament": {
+    "@prizePool": "440.0",
+    "@date": "1244820807",
+    "@totalEntrants": "20",
+    "@structure": "NL",
+    "@state": "Completed",
+    "@stake": "22.0",
+    "@rake": "3.0",
+    "@network": "MicroGame",
+    "@id": "4858544",
+    "@game": "H",
+    "@currency": "EUR",
+    "Statistics": {
+      "Statistic": {
+        "@id": "CombinedAvROI",
+        "$": "-12.29"
+      },
+      "StatisticalDataSet": [
+        {
+          "@id": "EntrantsAvProfits",
+          "Data": [
+            {
+              "@x": "1",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-1"
+              }]
+            },
+            {
+              "@x": "2",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.84"
+              }]
+            },
+            {
+              "@x": "3",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.51"
+              }]
+            },
+            {
+              "@x": "4",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.33"
+              }]
+            },
+            {
+              "@x": "5",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.27"
+              }]
+            },
+            {
+              "@x": "6",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.17"
+              }]
+            },
+            {
+              "@x": "7",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.15"
+              }]
+            },
+            {
+              "@x": "8",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.09"
+              }]
+            },
+            {
+              "@x": "9",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.09"
+              }]
+            },
+            {
+              "@x": "10",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.07"
+              }]
+            },
+            {
+              "@x": "11",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "-0.04"
+              }]
+            },
+            {
+              "@x": "12",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "0.02"
+              }]
+            },
+            {
+              "@x": "13",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "0.06"
+              }]
+            },
+            {
+              "@x": "14",
+              "Y": [{
+                "@id": "AvProfits",
+                "$": "0.19"
+              }]
+            }
+          ]
+        },
+        {
+          "@id": "PlayerClasses",
+          "Data": [{
+            "@x": "Fish",
+            "Y": [{
+              "@id": "PlayerCount",
+              "$": "4"
+            }]
+          }]
+        }
+      ]
+    },
+    "TournamentEntry": [
+      {
+        "@prize": "176.00",
+        "@position": "1",
+        "@playerName": "FERDIPIRON0",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "FERDIPIRON0"
+        }
+      },
+      {
+        "@prize": "132.00",
+        "@position": "2",
+        "@playerName": "Alkazar99",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "Alkazar99"
+        }
+      },
+      {
+        "@prize": "88.00",
+        "@position": "3",
+        "@playerName": "cobra45",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "cobra45"
+        }
+      },
+      {
+        "@prize": "44.00",
+        "@position": "4",
+        "@playerName": "flam00",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "flam00"
+        }
+      },
+      {
+        "@position": "5",
+        "@playerName": "enzuccio67",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "enzuccio67"
+        }
+      },
+      {
+        "@position": "6",
+        "@playerName": "peppiniello1961",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "peppiniello1961"
+        }
+      },
+      {
+        "@position": "7",
+        "@playerName": "gladiatore24",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "gladiatore24"
+        }
+      },
+      {
+        "@position": "8",
+        "@playerName": "LONANOMI75",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "LONANOMI75"
+        }
+      },
+      {
+        "@position": "9",
+        "@playerName": "65poker65",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "65poker65"
+        }
+      },
+      {
+        "@position": "10",
+        "@playerName": "59ASSO",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "59ASSO"
+        }
+      },
+      {
+        "@position": "11",
+        "@playerName": "lucertola275",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "lucertola275"
+        }
+      },
+      {
+        "@position": "12",
+        "@playerName": "adri81",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "adri81"
+        }
+      },
+      {
+        "@position": "13",
+        "@playerName": "managers",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "managers"
+        }
+      },
+      {
+        "@position": "14",
+        "@playerName": "roby0700",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "roby0700"
+        }
+      },
+      {
+        "@position": "15",
+        "@playerName": "brusstoni",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "brusstoni"
+        }
+      },
+      {
+        "@position": "16",
+        "@playerName": "lampadaro",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "lampadaro"
+        }
+      },
+      {
+        "@position": "17",
+        "@playerName": "floroflores",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "floroflores"
+        }
+      },
+      {
+        "@position": "18",
+        "@playerName": "LEUCIB",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "LEUCIB"
+        }
+      },
+      {
+        "@position": "19",
+        "@playerName": "orlando94600",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "orlando94600"
+        }
+      },
+      {
+        "@position": "20",
+        "@playerName": "matita1989",
+        "Player": {
+          "@network": "MicroGame",
+          "@name": "matita1989"
+        }
+      }
+    ]
+  }}
+}}

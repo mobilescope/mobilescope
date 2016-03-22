@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/rankleaderheader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#000000"
+            android:stretchColumns="3" >
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/rankposition"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight=".125"
+                    android:background="@drawable/textviewblackborder"
+                    android:gravity="center"
+                    android:padding="3dip"
+                    android:text="Rank"
+                    android:textSize="10sp"
+                    
+                    android:textColor="#000000" />
+
+                <TextView
+                    android:id="@+id/rankusername"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight=".4"
+                    android:background="@drawable/textviewblackborder"
+                    android:gravity="center"
+                    android:padding="3dip"
+                    android:text="User Name"
+                    android:textSize="10sp"
+                    android:textColor="#000000" />
+
+                <TextView
+                    android:id="@+id/ranknetwork"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight=".3"
+                    android:background="@drawable/textviewblackborder"
+                    android:gravity="center"
+                    android:padding="3dip"
+                    android:text="Network"
+                    android:textSize="10sp"
+                    android:textColor="#000000" />
+
+                <TextView
+                    android:id="@+id/rankprofit"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight=".175"
+                    android:background="@drawable/textviewblackborder"
+                    android:gravity="center"
+                    android:padding="3dip"
+                    android:text="Prizes"
+                    android:textSize="10sp"
+                    android:textColor="#000000" />
+            </TableRow>
+        </TableLayout>
+       
+    </LinearLayout>
+
+   
+        <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+           
+    
+        android:scrollbars="none"
+           >
+             <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:orientation="vertical">
+            <TableLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/rankleader"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                
+                android:background="#000000"
+                android:stretchColumns="3" >
+            </TableLayout>
+            </LinearLayout>
+        </ScrollView>
+   
+
+</LinearLayout>
